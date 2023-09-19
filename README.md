@@ -52,7 +52,7 @@ loadedDocument.Close(true);
 **Output Image**
 <img src="TextExtraction/TextExtractionSample/Output_images/Layout-based-text-extraction.png" alt="output_image" width="100%" Height="Auto"/>
 
-## Code snippet for Extract all text from the entire PDF document
+## Code snippet for Extract text from the entire PDF document
 We will create a new .NET console application, add the Syncfusion PDF library package, and write the code
 
 ```csharp

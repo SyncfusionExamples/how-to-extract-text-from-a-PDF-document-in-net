@@ -48,7 +48,7 @@ namespace TextExtractionSample {
             loadedDocument.Close(true);
         }
         /// <summary>
-        /// Extract all text from the entire PDF document
+        /// Extract text from the entire PDF document
         /// </summary>
         static void ExtractText_EntirePDF() {
             //Get stream from an existing PDF document.
