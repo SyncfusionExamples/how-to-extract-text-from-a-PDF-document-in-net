@@ -10,7 +10,7 @@ A quick start .NET console project that shows how to extract text from a PDF doc
 **IDEs**
 *  Visual Studio 2019/ Visual Studio 2022
 
-## Code snippet for Extract text from a specific page
+## Extract text from a specific page
 We will create a new .NET console application, add the Syncfusion PDF library package, and write the code
 
 ```csharp
@@ -31,7 +31,7 @@ loadedDocument.Close(true);
 **Output Image**
 <img src="TextExtraction/TextExtractionSample/Output_images/Output.png" alt="output_image" width="100%" Height="Auto"/>
 
-## Code snippet for Layout-based text extraction
+## Layout-based text extraction
 We will create a new .NET console application, add the Syncfusion PDF library package, and write the code
 
 ```csharp
@@ -52,7 +52,7 @@ loadedDocument.Close(true);
 **Output Image**
 <img src="TextExtraction/TextExtractionSample/Output_images/Layout-based-text-extraction.png" alt="output_image" width="100%" Height="Auto"/>
 
-## Code snippet for Extract text from the entire PDF document
+## Extract text from the entire PDF document
 We will create a new .NET console application, add the Syncfusion PDF library package, and write the code
 
 ```csharp
@@ -74,7 +74,7 @@ loadedDocument.Close(true);
 **Output Image**
 <img src="TextExtraction/TextExtractionSample/Output_images/ExtractText.png" alt="output_image" width="100%" Height="Auto"/>
 
-## Code snippet for Extract text from predefined bounds
+## Extract text from predefined bounds
 We will create a new .NET console application, add the Syncfusion PDF library package, and write the code
 
 ```csharp
