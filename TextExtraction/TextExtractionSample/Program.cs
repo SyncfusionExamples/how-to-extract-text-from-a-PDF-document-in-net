@@ -5,7 +5,7 @@ using Syncfusion.Drawing;
 namespace TextExtractionSample {
     internal class Program {
         static void Main(string[] args) {
-
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
             ExtractText();
             //Extract_Layout();
             //ExtractText_EntirePDF();
